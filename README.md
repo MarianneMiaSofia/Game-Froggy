@@ -20,3 +20,4 @@ The goal of the game is to collect as many points as possible by feeding the fro
 The frog character is controlled via keyboard commands (arrow keys), while the insects and the cat move along random paths on the game platform.
 
 ## Game Sketch
+![Pelialusta](Pelisuunnitelma-paivitetty.png "Visual plan")
